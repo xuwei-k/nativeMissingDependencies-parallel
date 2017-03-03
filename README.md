@@ -1,0 +1,2 @@
+- https://github.com/scala-native/scala-native/issues/532
+- license: public domain
